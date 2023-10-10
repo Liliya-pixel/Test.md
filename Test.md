@@ -17,3 +17,4 @@
 ## 2 Семинар
 git branch - вывести все ветки
 git log - выводит коммиты
+git branch name
