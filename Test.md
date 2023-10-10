@@ -22,3 +22,6 @@ git log --graph
 git log --graph
 git merge - слияние веток
 error - ошибка
+branch - ветка
+git add - добавление нужных изменений
+git status - проверяет текущее состояние репозитория
