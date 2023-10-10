@@ -19,3 +19,6 @@ git branch - вывести все ветки
 git log - выводит коммиты
 git branch name
 git log --graph
+git log --graph
+git merge - слияние веток
+error - ошибка
